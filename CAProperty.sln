@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAProperty", "CAProperty\CAProperty.csproj", "{3C2313F7-0D52-4D85-A395-F35FDB070DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C2313F7-0D52-4D85-A395-F35FDB070DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2313F7-0D52-4D85-A395-F35FDB070DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2313F7-0D52-4D85-A395-F35FDB070DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2313F7-0D52-4D85-A395-F35FDB070DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B5CAA0A-BA21-4980-A762-DBF7725BE70E}
+	EndGlobalSection
+EndGlobal
