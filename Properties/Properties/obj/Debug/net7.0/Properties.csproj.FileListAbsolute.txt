@@ -1,0 +1,14 @@
+D:\ProjectsMetigator\CSharp_Lesson_011\Properties\Properties\bin\Debug\net7.0\Properties.exe
+D:\ProjectsMetigator\CSharp_Lesson_011\Properties\Properties\bin\Debug\net7.0\Properties.deps.json
+D:\ProjectsMetigator\CSharp_Lesson_011\Properties\Properties\bin\Debug\net7.0\Properties.runtimeconfig.json
+D:\ProjectsMetigator\CSharp_Lesson_011\Properties\Properties\bin\Debug\net7.0\Properties.dll
+D:\ProjectsMetigator\CSharp_Lesson_011\Properties\Properties\bin\Debug\net7.0\Properties.pdb
+D:\ProjectsMetigator\CSharp_Lesson_011\Properties\Properties\obj\Debug\net7.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsMetigator\CSharp_Lesson_011\Properties\Properties\obj\Debug\net7.0\Properties.AssemblyInfoInputs.cache
+D:\ProjectsMetigator\CSharp_Lesson_011\Properties\Properties\obj\Debug\net7.0\Properties.AssemblyInfo.cs
+D:\ProjectsMetigator\CSharp_Lesson_011\Properties\Properties\obj\Debug\net7.0\Properties.csproj.CoreCompileInputs.cache
+D:\ProjectsMetigator\CSharp_Lesson_011\Properties\Properties\obj\Debug\net7.0\Properties.dll
+D:\ProjectsMetigator\CSharp_Lesson_011\Properties\Properties\obj\Debug\net7.0\refint\Properties.dll
+D:\ProjectsMetigator\CSharp_Lesson_011\Properties\Properties\obj\Debug\net7.0\Properties.pdb
+D:\ProjectsMetigator\CSharp_Lesson_011\Properties\Properties\obj\Debug\net7.0\Properties.genruntimeconfig.cache
+D:\ProjectsMetigator\CSharp_Lesson_011\Properties\Properties\obj\Debug\net7.0\ref\Properties.dll
